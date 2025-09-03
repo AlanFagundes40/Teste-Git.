@@ -1,3 +1,6 @@
-Vnedo se o teste-git esta ok.
+Vendo se o teste-git esta ok.
 
 Readme.md.
+
+Lembre do comando: git commit -m: é salva.
+
